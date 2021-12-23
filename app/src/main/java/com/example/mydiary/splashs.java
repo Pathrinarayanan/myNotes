@@ -1,6 +1,5 @@
 package com.example.mydiary;
 
-import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -19,7 +18,7 @@ public class splashs extends AppCompatActivity {
 
                 try {
                     //sleep thread for 10 seconds, time in milliseconds
-                    sleep(3000);
+                    sleep(5000);
 
                     //start new activity
                     Intent i=new Intent(splashs.this, com.example.mydiary.LoginActivity.class);
