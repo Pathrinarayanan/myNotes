@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_add_note.xml" value="0.2" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_edit_note.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_login2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_note_details.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/activity_splashs.xml" value="0.152" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/content_add_note.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/content_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/content_note_details.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/date_time_picker.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/nav_header.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/layout/note_view_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pathr/AndroidStudioProjects/MyDiary/app/src/main/res/menu/nav_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
